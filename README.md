@@ -9,6 +9,4 @@ List of files:
 
 3.) conus_gls_forpub.R: R code for analyzing above CSV file and creating most of the figures in the paper
 
-4.) labeled_tree.R: R code for producing the labeled phylograms in Figure 2
-
-5.) conetree.nex: Nexus file required for phylogenetic analyses and phylograms found in the paper; sourced from Williams & Duda 2008
+4.) conetree.nex: Nexus file required for phylogenetic analyses and phylograms found in the paper; sourced from Williams & Duda 2008
